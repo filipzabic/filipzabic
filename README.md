@@ -2,12 +2,11 @@
 
 🔭 Software Engineer at Infobip  
 🎓 Mechanical Engineer with IT experience  
-💡 Passionate about automation, data science and web development  
-🌍 Based in Zagreb, Croatia
+💡 Passionate about automation, data science and web development
 
 📄 [My CV - PDF](./assets/Filip_Zabic_CV.pdf)
 
-## Technologies I use
+## Key Technologies
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -23,8 +22,3 @@
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=flat&logo=sentry&logoColor=white)
-
-
-
-## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipzabic/)
