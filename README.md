@@ -1,10 +1,8 @@
 # Hi, I'm Filip 👋
 
-🔭 Software Engineer at Aircash  
-
 Experienced software engineer with a strong background in backend and frontend development as well as IT infrastructure across various industries.
 
-📄 [My CV page](https://filip.zabic.net)
+📄 [My CV webpage](https://filip.zabic.net)
 
 ## Key Technologies
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
