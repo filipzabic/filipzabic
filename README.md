@@ -1,10 +1,10 @@
 # Hi, I'm Filip 👋
 
-🔭 Software Engineer at Infobip  
-🎓 Mechanical Engineer with IT experience  
-💡 Passionate about automation, data science and web development
+🔭 Software Engineer at Aircash  
 
-📄 [My CV - PDF](./assets/Filip_Zabic_CV.pdf)
+Experienced software engineer with a strong background in backend and frontend development as well as IT infrastructure across various industries.
+
+📄 [My CV page](https://filip.zabic.net)
 
 ## Key Technologies
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
